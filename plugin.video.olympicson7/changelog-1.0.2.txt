@@ -1,0 +1,11 @@
+[B]Version v1.0.2[/B]
+- Use title for live channels rather than channel name
+
+[B]Version v1.0.1[/B]
+- revert to old repo name for now in travis config
+- trigger initial build
+- Update .travis.yml
+- Update travis secure token
+
+[B]Version v1.0.0[/B]
+- Initial version
